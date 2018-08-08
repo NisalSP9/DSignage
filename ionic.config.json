@@ -1,0 +1,7 @@
+{
+  "name": "DSignage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
